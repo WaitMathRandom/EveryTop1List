@@ -1,18 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 119544028,
+    "name": "Thinking Space II",
+    "author": "CairoX",
+    "creators": ["CairoX", "Jaw", "Rin04", "HaydenDom", "V45c70m14", "UFWM", "Hyperbola", "NcaT", "KugelBlitZ", "Maxmur", "Meatius", "cuber", "kurewa", "ninedice", "adrone", "realvet", "crowiley", "meox", "gamerknight750", "ThunderDarkness", "Diamondskull", "Kevellium"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=CELNmHwln_c",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
